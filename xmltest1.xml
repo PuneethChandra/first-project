@@ -1,0 +1,37 @@
+[
+   {
+      "@name": "sachin",
+      "team": "India",
+      "hand": "right",
+      "height": "5",
+      "ipl": "mumbai"
+   },
+   {
+      "@name": "ABD",
+      "team": "SA",
+      "hand": "right",
+      "height": "5.6",
+      "ipl": "RCB"
+   },
+   {
+      "@name": "smith",
+      "team": "Aus",
+      "hand": "right",
+      "height": "5",
+      "ipl": "Rajasthan"
+   },
+   {
+      "@name": "warner",
+      "team": "Aus",
+      "hand": "left",
+      "height": "5.1",
+      "ipl": "SRH"
+   },
+   {
+      "@name": "yuvraj",
+      "team": "India",
+      "hand": "left",
+      "height": "5.9",
+      "ipl": "Punjab"
+   }
+]
